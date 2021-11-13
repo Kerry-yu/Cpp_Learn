@@ -4,3 +4,5 @@
 3. [C++学习第三阶段——C++核心编程](https://github.com/Kerry-yu/Cpp_Learn/blob/main/3.%20C%2B%2B%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5/3.%20C%2B%2B%E7%AC%AC%E4%B8%89%E9%98%B6%E6%AE%B5%E2%80%94%E2%80%94%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B.md)
 4. [C++学习第四阶段——职员管理系统](https://github.com/Kerry-yu/Cpp_Learn/blob/main/4.%20C%2B%2B%E5%AD%A6%E4%B9%A0%E7%AC%AC%E5%9B%9B%E9%98%B6%E6%AE%B5/C%2B%2B%E7%AC%AC%E5%9B%9B%E9%98%B6%E6%AE%B5%E2%80%94%E2%80%94%E9%A1%B9%E7%9B%AE%E7%BB%83%E4%B9%A0.md)
 
+5. [C++学习第五阶段——C++提高编程](https://github.com/Kerry-yu/Cpp_Learn/blob/main/5.%20C%2B%2B%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5/5.%20C%2B%2B%E7%AC%AC%E4%BA%94%E9%98%B6%E6%AE%B5%E2%80%94%E2%80%94%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B.md)
+
